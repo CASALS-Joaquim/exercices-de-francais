@@ -1,0 +1,54 @@
+{
+    "description": "Exercices de français au format JSON, à rendre pour le 26/03/2021",
+    "content" : {
+        "exercice 1": {
+            "a)": "verbe",
+            "b)": "adjectif qualificatif",
+            "c)": "adverbe",
+            "d)": "noms communs",
+            "e)": "préposition",
+            "f)": "déterminant"
+        },
+
+        "exercice 2": {
+            "a)": {
+                "goûter": "nom commun",
+                "leur": "pronom personnel"
+            },
+
+            "b)": {
+                "Je": "pronom personnel",
+                "à": "préposition"
+            },
+
+            "c)": {
+                "Molière": "nom propre",
+                "français": "adjectif qualificatif"
+            },
+
+            "d)": {
+                "Cet": "déterminant",
+                "luxueux": "adjectif qualificatif"
+            }
+        },
+
+        "exercice 3": {
+            "Hier": "adverbe",
+            "école": "nom commun",
+            "mes": "déterminants poisitifs",
+            "et": "conjonction de coodrination",
+            "petit": "adjectif qualificatif",
+            "spectacle": "nom commun",
+            "drôle": "adjectif qualificatif",
+            "nous": "pronom personnel",
+            "jeux": "nom commun",
+            "ballon": "nom commun",
+            "très": "adverbe",
+            "content": "adjectif qualificatif",
+            "temps": "nom commun",
+            "après-midi": "nom commun",
+            "famille": "nom commun",
+            "la": "déterminant"
+        }
+    }
+}
